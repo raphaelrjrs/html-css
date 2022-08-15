@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+* {
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p {
+
+    text-align: justify;
+    color:#0C0A0D;
+}
+body {
+
+    background-image: linear-gradient(to right,#B8BBBF,#727D8C);
+
+}
+
+main {
+
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 15px #1e1e24ff;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1 {
+    color: #3E4C59;
+    text-align: center;
+    text-shadow: 1px 1px 2px #40363c86;
+}
+
+h2 {
+
+    color:#BF4B60 ;
+}
+
+p#link {
+    text-align: center;
+    
+}
+
+a {
+    color: white;
+    background-color: #3E4C59 ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+/* Color Theme Swatches in Hex */
+.Franse-buldog-on-white-1-hex { color: #A69299; }
+.Franse-buldog-on-white-2-hex { color: #40363C; }
+.Franse-buldog-on-white-3-hex { color: #73686F; }
+.Franse-buldog-on-white-4-hex { color: #0C0A0D; }
+.Franse-buldog-on-white-5-hex { color: 
+#222231}
+
+/* SCSS HEX */
+sky-blue { color: #8acdeaff;}
+medium-champagne { color:#eee3abff;}
+cafe-au-lait { color:#a77e58ff;}
+jet { color:#444140ff;}
+raisin-black { color:#1e1e24ff;}
+
+/* Color Theme Swatches in Hex */
+.VANGUART-WEBSITE-1-hex { color: #BF4B60;}
+.VANGUART-WEBSITE-2-hex { color: #594045;}
+.VANGUART-WEBSITE-3-hex { color: #727D8C;}
+.VANGUART-WEBSITE-4-hex { color: #B8BBBF;}
+.VANGUART-WEBSITE-5-hex { color: #3E4C59;}
+

@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+    @font-face {
+        font-family: 'Alycidon';
+        src: url('../fonts/Alycidon\ Condensed.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal; }
+
+    @font-face {
+            font-family: 'bubblegum';
+            src: url('../fonts/bubblegum-sans-regular.otf') format('opentype');
+            font-weight: normal;
+            font-style: normal; }
+
+    @font-face {
+                font-family: 'computer';
+                src: url('../fonts/computer-font.ttf') format('truetype');
+                font-weight: normal;
+                font-style: normal; }
+
+    @font-face {
+                font-family: 'Love';
+                src: url('../fonts/love\ story\ ttf.ttf') format('truetype');
+                font-weight: normal;
+                font-style: normal; }
+
+    @font-face {
+        font-family: 'Leander';
+        src: url('../fonts/Leander.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal; }                      
+
+p {
+
+    text-align: justify;
+    text-indent: 30px;
+    color: white;
+    font-family: 'Leander';
+}
+body {
+
+    font-size: 1.2em;
+    background-color: #282a2cdc;
+
+    
+
+}
+
+main {
+
+    border-radius: 10px;
+    background-color: #6f7279dc;;
+    box-shadow: 5px 5px 15px #1e1e24ff;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1 {
+    color: #07aff1;
+    text-align: center;
+    text-shadow: 1px 1px 2px #3e4c5985 ;
+    font-family:'bubblegum' ;
+    
+}
+
+h2 {
+
+    color:#fd3939 ;
+    font-family: 'computer';
+}
+
+p#link {
+    text-align: center;
+    
+    
+}
+
+a {
+    color: white;
+    background-color: #3E4C59 ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+/* Color Theme Swatches in Hex */
+.Franse-buldog-on-white-1-hex { color: #A69299; }
+.Franse-buldog-on-white-2-hex { color: #40363C; }
+.Franse-buldog-on-white-3-hex { color: #73686F; }
+.Franse-buldog-on-white-4-hex { color: #0C0A0D; }
+.Franse-buldog-on-white-5-hex { color: 
+#222231}
+
+/* SCSS HEX */
+sky-blue { color: #8acdeaff;}
+medium-champagne { color:#eee3abff;}
+cafe-au-lait { color:#a77e58ff;}
+jet { color:#444140ff;}
+raisin-black { color:#1e1e24ff;}
+
+/* Color Theme Swatches in Hex */
+.VANGUART-WEBSITE-1-hex { color: #BF4B60;}
+.VANGUART-WEBSITE-2-hex { color: #594045;}
+.VANGUART-WEBSITE-3-hex { color: #727D8C;}
+.VANGUART-WEBSITE-4-hex { color: #B8BBBF;}
+.VANGUART-WEBSITE-5-hex { color: #3E4C59;}
+

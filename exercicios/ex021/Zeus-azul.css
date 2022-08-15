@@ -1,0 +1,158 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Alycidon';
+    src: url('../fonts/Alycidon\ Condensed.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+        font-family: 'bubblegum';
+        src: url('../fonts/bubblegum-sans-regular.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal; }
+
+@font-face {
+        font-family: 'uni';
+        src: url('../fonts/UNI\ North.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal; }
+
+@font-face {
+        font-family: 'forzbite';
+        src: url('../fonts/FROZBITE.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal; }
+
+@font-face {
+            font-family: 'Love';
+            src: url('../fonts/love\ story\ ttf.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal; }
+
+@font-face {
+            font-family: 'campus';
+            src: url('../fonts/CAMPUS\ PERSONAL\ USE.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal; }
+
+@font-face {
+            font-family: 'computer';
+            src: url('../fonts/computer-font.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal; }
+
+@font-face {
+            font-family: 'firestarter';
+            src: url('../fonts/FIRESTARTER.TTF') format('truetype');
+            font-weight: normal;
+            font-style: normal; }  
+            
+@font-face {
+            font-family: 'frozentide';
+            src: url('../fonts/FrozenTide-Regular\ Final.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal; } 
+
+@font-face {
+            font-family: 'helpme';
+            src: url('../fonts/HelpMe.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal; } 
+
+
+@font-face {
+            font-family: 'Leander';
+            src: url('../fonts/Leander.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal; }  
+
+
+
+header {
+
+    background-color: #f2fafc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+    header > h1 {
+
+        color:#1C0051;
+       
+        font-family:'Leander';
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.623);
+    }
+nav {
+
+    background-color: rgb(87, 133, 202);
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 139, 0.466) ;
+    border-radius: 15px;
+   
+}
+a {
+   
+    color: whitesmoke;
+    
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 30px;
+}
+a:hover {
+    
+    color: rgb(184, 179, 179);
+}
+
+
+main {
+
+    border: 3px solid darkgrey;
+    padding: 10px;
+    margin: 10px;
+    color:rgb(69, 87, 252);
+    border-radius: 10px;
+    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.534);
+
+}
+
+
+article {
+    background-color:  #F4F1EB;
+    border-radius: 10px 0px;
+    padding: 5px;
+    margin: 15px;
+    color: rgb(73, 71, 71);
+    
+}
+
+article > aside {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-style: italic;
+    color: black;
+    
+}
+
+article > p {
+
+    text-align: justify;
+}
+
+footer {
+
+    background-color: #1C0051;
+            color: whitesmoke;
+            text-align: center;
+            padding: 1px;
+            margin: 0px;
+}
+
+
+
+VANGUART-WEBSITE-1-hex { color:#f2fafc;}
+.VANGUART-WEBSITE-2-hex { color: #1C0051;}
+.VANGUART-WEBSITE-3-hex { color: #4651FF;}
+.VANGUART-WEBSITE-4-hex { color: #B7BCC1;}
+.VANGUART-WEBSITE-5-hex { color: #E2E7ED;}

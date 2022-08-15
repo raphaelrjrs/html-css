@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* Color Theme Swatches in Hex */
+.Franse-buldog-on-white-1-hex { color: #A69299; }
+.Franse-buldog-on-white-2-hex { color: #40363C; }
+.Franse-buldog-on-white-3-hex { color: #73686F; }
+.Franse-buldog-on-white-4-hex { color: #0C0A0D; }
+.Franse-buldog-on-white-5-hex { color: #F2F2F2; }
+
+/* Color Theme Swatches in RGBA */
+.Franse-buldog-on-white-1-rgba { color: rgba(165, 145, 153, 1); }
+.Franse-buldog-on-white-2-rgba { color: rgba(63, 54, 60, 1); }
+.Franse-buldog-on-white-3-rgba { color: rgba(114, 104, 111, 1); }
+.Franse-buldog-on-white-4-rgba { color: rgba(12, 9, 12, 1); }
+.Franse-buldog-on-white-5-rgba { color: rgba(242, 242, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Franse-buldog-on-white-1-hsla { color: hsla(337, 10, 61, 1); }
+.Franse-buldog-on-white-2-hsla { color: hsla(320, 8, 23, 1); }
+.Franse-buldog-on-white-3-hsla { color: hsla(320, 4, 42, 1); }
+.Franse-buldog-on-white-4-hsla { color: hsla(286, 12, 4, 1); }
+.Franse-buldog-on-white-5-hsla { color: hsla(0, 0, 95, 1); }
+
+body {
+    background-color: #F2F2F2;
+    width: 800px;
+    text-align: center;
+    
+}
+
+h2 {
+    background-color: #A69299;
+    color: #40363C;
+}
+
+p {
+    text-align: justify;
+}
