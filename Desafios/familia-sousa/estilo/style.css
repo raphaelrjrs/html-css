@@ -66,6 +66,7 @@ section > p {
 section.normal {
     background-color:white ;
     color: black;
+    
 }
 
 section.imagem {
@@ -81,19 +82,38 @@ section.imagem > p {
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px black;
+    
 }
 
 section#img01 {
 
-    background-image: url(../imagens/background001.jpg);
-    background-position: right center;
+    background-image: url(../imagem/img01.jpeg);
+    background-position: top center;
    
 }
 
 section#img02 {
 
-    background-image: url(../imagens/background002.jpg);
-   
+    background-image: url(../imagem/img02.jpeg);
+    background-position: top center;
+}
+
+section#img03 {
+
+    background-image: url(../imagem/img03.jpeg);
+    background-position: top center;
+}
+
+section#img04 {
+
+    background-image: url(../imagem/img04.jpeg);
+    background-position: top center;
+}
+
+section#img05 {
+
+    background-image: url(../imagem/img05.jpeg);
+    background-position: top center;
 }
 
 footer {
